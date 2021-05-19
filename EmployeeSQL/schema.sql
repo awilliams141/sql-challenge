@@ -102,4 +102,4 @@ COPY
 FROM 'D:\BootCamp\sql-challenge\data\titles.csv'
 DELIMITER ',' CSV HEADER;
 
-SELECT * FROM titles;
+SELECT * FROM titles ;
